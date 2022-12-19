@@ -1,7 +1,7 @@
 # Define global args
 ARG FUNCTION_DIR="/home/app/"
-ARG RUNTIME_VERSION="3.9"
-ARG DISTRO_VERSION="3.12"
+ARG RUNTIME_VERSION="3.10"
+ARG DISTRO_VERSION="3.17"
 
 # Stage 1 - bundle base image + runtime
 # Grab a fresh copy of the image and install GCC
