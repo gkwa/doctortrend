@@ -1,0 +1,9 @@
+mode: crud
+read:
+- arn:aws:ecr:*:193048895737:repository/doctortrend
+write:
+- arn:aws:ecr:*:193048895737:repository/doctortrend
+list:
+- arn:aws:ecr:*:193048895737:repoistory/doctortrend
+tagging:
+- arn:aws:ecr:*:193048895737:repoistory/doctortrend
